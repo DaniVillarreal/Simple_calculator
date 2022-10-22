@@ -1,0 +1,6 @@
+name: calculator
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+prefix: /home/vijudan/anaconda3/envs/calculator
